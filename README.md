@@ -1,4 +1,4 @@
-# AI-Powered_Medical_Diagnosis_System  
+# AI-Powered-Medical-Diagnosis-System  
 This project, "Medical Diagnosis System" is an AI-powered web application designed to predict the likelihood of preventable diseases such as Diabetes, Heart Disease, and Parkinson's Disease. By leveraging Machine Learning (Random Forest algorithm), the system provides users with accurate risk predictions and personalized recommendations to promote early diagnosis and proactive health management.
 
 ## Table of Contents   
@@ -19,8 +19,8 @@ This project, "Medical Diagnosis System" is an AI-powered web application design
 ## Installation  
 To get a local copy up and running, follow these steps:  
 - ### Clone the repository:  
-  git clone https://github.com/DarshiniMahesh/AI-Powered_Medical_Diagnosis_System.git    
-  cd AI-Powered_Medical_Diagnosis_System  
+  git clone https://github.com/DeepakMallesh/AI-Powered-Medical-Diagnosis-System.git    
+  cd AI-Powered-Medical-Diagnosis-System  
 - ### Install the required packages:  
   pip install -r requirements.txt  
 
@@ -54,9 +54,6 @@ To get a local copy up and running, follow these steps:
 - Visualization: The system includes data visualizations to help users better understand their health risks and insights.  
 
 ### Fork the Project:  
-git fork https://github.com/DarshiniMahesh/AI-Powered_Medical_Diagnosis_System.git  
-  
-## Acknowledgments  
-- Mentors: A heartfelt thank you to our mentors for their invaluable guidance and support throughout this internship program. Their mentorship has been instrumental in shaping this project.  
-- Institutions: Deep gratitude to Edunet Foundation, AICTE, Microsoft, and SAP for organizing and supporting this transformative internship program. Their efforts in providing personalized mentorship, collaborative learning opportunities, and technical sessions have been greatly appreciated.  
-- Organizers: Special thanks to Microsoft and SAP for their CSR initiative, TechSaksham, which empowered us with the skills and knowledge to undertake this impactful project.  
+git fork https://github.com/DeepakMallesh/AI-Powered-Medical-Diagnosis-System.git  
+
+
